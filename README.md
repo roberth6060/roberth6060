@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **haye.robert@yahoo.com**
 
-- 📄 Know about my experiences [[My Resume]]([https://www.roberthayeportfolio.com/src/assets/Robert-Haye-Resume.pdf](https://www.roberthayeportfolio.com/assets/haye-robert-resume.pdf))
+- 📄 Know about my experiences [[My Resume]]([[https://www.roberthayeportfolio.com/src/assets/Robert-Haye-Resume.pdf](https://www.roberthayeportfolio.com/assets/haye-robert-resume.pdf)](https://www.roberthayeportfolio.com/assets/haye-robert-resume.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
