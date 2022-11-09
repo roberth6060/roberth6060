@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react, typescript, angular, and java**
 
-- 👨‍💻 All of my projects are available at [https://www.roberthayeportfolio.com](https://www.roberthayeportfolio.com)
+- 👨‍💻 All of my projects are available at [Personal Portfolio Website](https://www.roberthayeportfolio.com)
 
 - 📫 How to reach me **haye.robert@yahoo.com**
 
