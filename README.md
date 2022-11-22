@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Island Apparel](https://github.com/roberth6060/island-apparel-react-app)
 
-- 🌱 I’m currently learning **react, typescript, angular, and java**
+- 🌱 I’m currently learning **react, typescript, and java**
 
 - 👨‍💻 All of my projects are available at [Personal Portfolio Website](https://www.roberthayeportfolio.com)
 
