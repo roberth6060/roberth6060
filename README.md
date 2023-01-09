@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert Haye</h1>
-<h3 align="center">Full Stack Web Developer from Jamaica</h3>
+<h3 align="center">Full Stack Web Developer from Jamaica living in Zagreb, Croatia</h3>
 
 - 🔭 I’m currently working on [Opulent Cars](https://github.com/roberth6060/opulent-cars) and [Island Apparel](https://github.com/roberth6060/island-apparel-react-app)
 
